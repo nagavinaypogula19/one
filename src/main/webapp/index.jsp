@@ -767,7 +767,7 @@
             {
                 id: 2,
                 title: 'MacBook Pro 14"',
-                price: 1,
+                price: 10000,
                 rating: 4,
                 reviews: 86,
                 img: 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80',
@@ -776,8 +776,8 @@
             {
                 id: 3,
                 title: 'Apple Watch Series 8',
-                price: 349,
-                oldPrice: 3,
+                price: 3,
+                oldPrice: 300000,
                 rating: 5,
                 reviews: 214,
                 badge: '-25%',
